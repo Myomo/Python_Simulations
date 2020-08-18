@@ -1,0 +1,197 @@
+1593092040.400000 System: 
+
+SN: M0001138   Motor Ver: 5.1.10 - SYS_FILERESET
+1593092040.900000 System: Bluetooth Connection: Disconnected
+1593092055.510000  Elbow: Flx Cycle Count: 0
+1593092055.530000  Elbow: Ext Cycle Count: 0
+1593092055.560000  Elbow: Flx Motor Time: 0 mSecs
+1593092055.580000  Elbow: Ext Motor Time: 0 mSecs
+1593092055.600000  Elbow: Motor Current Position: 0
+1593092055.620000  Elbow: Motor Maximum Position: 135
+1593092055.640000  Elbow: Biceps Mode Parameters  (G,B,T): 4/4, 4/4, 11/11
+1593092055.660000  Elbow: Elbow Orientation: Right
+1593092055.680000  Elbow: Flex Limit: 135 deg
+1593092055.700000  Elbow: Extend Limit: 0 deg
+1593092055.720000  Elbow: Motor Temperature: 78 F
+1593092055.740000  Elbow: Mode: 1 (Flex)
+1593092055.760000 System: Battery Capacity: 83.00 %
+1593092055.790000 System: Current: -0.13 Amps
+1593092055.810000 System: Battery Cycle Count: 3
+1593092055.830000 System: Battery Avg Time To Empty: 1121 Minutes
+1593092055.890000 System: Battery Runtime To Empty: 1103 Minutes
+1593092055.920000 System: Battery Voltage: 12.25 Volts
+1593092055.940000 System: Battery Temperature: 75 F
+1593092055.960000 System: Battery Mode: 1
+1593092055.980000 System: Battery Status: 192
+1593092059.580000  Elbow: Flx Cycle Count: 0
+1593092059.600000  Elbow: Ext Cycle Count: 0
+1593092059.620000  Elbow: Flx Motor Time: 0 mSecs
+1593092059.640000  Elbow: Ext Motor Time: 0 mSecs
+1593092059.660000   Hand: Flx Cycle Count: 1
+1593092059.680000   Hand: Ext Cycle Count: 1
+1593092059.700000   Hand: Flx Motor Time: 0 mSecs
+1593092059.730000   Hand: Ext Motor Time: 0 mSecs
+1593092059.750000 System: SysOnTime: 2 Minutes
+1593092059.770000 System: Battery Capacity: 83.00 %
+1593092059.790000 System: Current: -0.13 Amps
+1593092059.810000 System: Battery Cycle Count: 3
+1593092059.830000 System: Battery Avg Time To Empty: 1112 Minutes
+1593092059.850000 System: Battery Runtime To Empty: 1095 Minutes
+1593092059.870000 System: Battery Voltage: 12.25 Volts
+1593092059.900000 System: Battery Temperature: 75 F
+1593092059.920000 System: Battery Mode: 1
+1593092059.940000 System: Battery Status: 192
+1593092059.960000 System: 
+
+SN: M0001138   Motor Ver: 5.1.10 - SYS_POWERDOWN
+1593092065.760000 System: 
+
+SN: M0001138   Motor Ver: 5.1.10 - SYS_POWERUP
+1593092065.790000 System: Bluetooth MAC Address: 00:13:43:5B:93:85
+1593092065.820000 System: Unique System Name: 12345678
+1593092065.840000 System: Elbow SW Version: V5.1.10
+1593092065.870000 System: Battery Serial Number: 12338
+1593092065.890000 System: Battery Manufacturing Date: 18773 (Oct 21, 2016)
+1593092065.910000  Elbow: Mode: 0 (Standby)
+1593092065.930000  Elbow: Standby Mode Parameters (G,B,T): 4/4, 4/4, 0/0
+1593092065.950000  Elbow: Biceps Mode Parameters  (G,B,T): 4/4, 4/4, 11/11
+1593092065.980000  Elbow: Triceps Mode Parameters (G,B,T): 10/10, 4/4, 11/11
+1593092066.000000  Elbow: Dual Mode Parameters (G,B,T): 10/10, 4/4, 11/10
+1593092066.020000   Hand: Mode: 0 (Standby)
+1593092066.040000   Hand: Standby Mode Parameters (G,B,T): 4/4, 5/5, 0/0
+1593092066.060000   Hand: Biceps Mode Parameters  (G,B,T): 6/5, 6/3, 7/9
+1593092066.080000   Hand: Triceps Mode Parameters (G,B,T): 10/9, 6/3, 7/9
+1593092066.100000   Hand: Dual Mode Parameters (G,B,T): 5/8, 6/3, 11/6
+1593092070.480000  Elbow: Flx Cycle Count: 0
+1593092070.500000  Elbow: Ext Cycle Count: 0
+1593092070.520000  Elbow: Flx Motor Time: 0 mSecs
+1593092070.550000  Elbow: Ext Motor Time: 0 mSecs
+1593092070.570000  Elbow: Motor Current Position: 0
+1593092070.590000  Elbow: Motor Maximum Position: 135
+1593092070.610000  Elbow: Biceps Mode Parameters  (G,B,T): 4/4, 4/4, 11/11
+1593092070.630000  Elbow: Elbow Orientation: Right
+1593092070.650000  Elbow: Flex Limit: 135 deg
+1593092070.670000  Elbow: Extend Limit: 0 deg
+1593092070.690000  Elbow: Motor Temperature: 0 F
+1593092070.710000  Elbow: Mode: 1 (Flex)
+1593092070.730000 System: Battery Capacity: 83.00 %
+1593092070.760000 System: Current: -0.13 Amps
+1593092070.780000 System: Battery Cycle Count: 3
+1593092070.800000 System: Battery Avg Time To Empty: 1178 Minutes
+1593092070.820000 System: Battery Runtime To Empty: 1103 Minutes
+1593092070.840000 System: Battery Voltage: 12.25 Volts
+1593092070.860000 System: Battery Temperature: 75 F
+1593092070.890000 System: Battery Mode: 1
+1593092070.910000 System: Battery Status: 192
+1593092110.520000  Elbow: Flx Cycle Count: 14
+1593092110.550000  Elbow: Ext Cycle Count: 13
+1593092110.570000  Elbow: Flx Motor Time: 11364 mSecs
+1593092110.590000  Elbow: Ext Motor Time: 10480 mSecs
+1593092110.610000  Elbow: Motor Current Position: 0
+1593092110.630000  Elbow: Motor Maximum Position: 135
+1593092110.650000  Elbow: Triceps Mode Parameters (G,B,T): 10/10, 4/4, 11/11
+1593092110.670000  Elbow: Elbow Orientation: Right
+1593092110.690000  Elbow: Flex Limit: 135 deg
+1593092110.720000  Elbow: Extend Limit: 0 deg
+1593092110.740000  Elbow: Motor Temperature: 79 F
+1593092110.760000  Elbow: Mode: 2 (Extend)
+1593092110.780000 System: Battery Capacity: 83.00 %
+1593092110.800000 System: Current: -0.13 Amps
+1593092110.820000 System: Battery Cycle Count: 3
+1593092110.840000 System: Battery Avg Time To Empty: 510 Minutes
+1593092110.870000 System: Battery Runtime To Empty: 1101 Minutes
+1593092110.890000 System: Battery Voltage: 12.23 Volts
+1593092110.910000 System: Battery Temperature: 75 F
+1593092110.930000 System: Battery Mode: 1
+1593092110.950000 System: Battery Status: 192
+1593092129.750000  Elbow: Flx Cycle Count: 0
+1593092129.770000  Elbow: Ext Cycle Count: 0
+1593092129.790000  Elbow: Flx Motor Time: 0 mSecs
+1593092129.810000  Elbow: Ext Motor Time: 0 mSecs
+1593092129.840000  Elbow: Motor Current Position: 0
+1593092129.850000  Elbow: Motor Maximum Position: 135
+1593092129.890000  Elbow: Standby Mode Parameters (G,B,T): 4/4, 4/4, 0/0
+1593092129.910000  Elbow: Elbow Orientation: Right
+1593092129.930000  Elbow: Flex Limit: 135 deg
+1593092129.950000  Elbow: Extend Limit: 0 deg
+1593092129.980000  Elbow: Motor Temperature: 79 F
+1593092130.000000  Elbow: Mode: 0 (Standby)
+1593092130.020000 System: Battery Capacity: 83.00 %
+1593092130.040000 System: Current: -0.12 Amps
+1593092130.070000 System: Battery Cycle Count: 3
+1593092130.090000 System: Battery Avg Time To Empty: 836 Minutes
+1593092130.110000 System: Battery Runtime To Empty: 1128 Minutes
+1593092130.130000 System: Battery Voltage: 12.24 Volts
+1593092130.150000 System: Battery Temperature: 75 F
+1593092130.170000 System: Battery Mode: 1
+1593092130.190000 System: Battery Status: 192
+1593092130.890000   Hand: Flx Cycle Count: 1
+1593092130.910000   Hand: Ext Cycle Count: 1
+1593092130.930000   Hand: Flx Motor Time: 0 mSecs
+1593092130.960000   Hand: Ext Motor Time: 0 mSecs
+1593092130.980000   Hand: Hand Installed: Yes
+1593092131.000000   Hand: Motor Current Position: 95
+1593092131.020000   Hand: Motor Maximum Position: 100
+1593092131.040000   Hand: Biceps Mode Parameters  (G,B,T): 6/5, 6/3, 7/9
+1593092131.060000   Hand: Flex Limit: 100 deg
+1593092131.080000   Hand: Extend Limit: 0 deg
+1593092131.100000   Hand: Motor Temperature: 72 F
+1593092131.120000   Hand: Mode: 1 (Flex)
+1593092131.150000 System: Battery Capacity: 83.00 %
+1593092131.170000 System: Current: -0.13 Amps
+1593092131.190000 System: Battery Cycle Count: 3
+1593092131.210000 System: Battery Avg Time To Empty: 851 Minutes
+1593092131.230000 System: Battery Runtime To Empty: 1059 Minutes
+1593092131.260000 System: Battery Voltage: 12.23 Volts
+1593092131.280000 System: Battery Temperature: 75 F
+1593092131.310000 System: Battery Mode: 1
+1593092131.330000 System: Battery Status: 192
+1593092157.420000  Elbow: Flx Cycle Count: 0
+1593092157.440000  Elbow: Ext Cycle Count: 0
+1593092157.460000  Elbow: Flx Motor Time: 0 mSecs
+1593092157.480000  Elbow: Ext Motor Time: 0 mSecs
+1593092157.500000   Hand: Flx Cycle Count: 2
+1593092157.520000   Hand: Ext Cycle Count: 2
+1593092157.540000   Hand: Flx Motor Time: 1290 mSecs
+1593092157.560000   Hand: Ext Motor Time: 1174 mSecs
+1593092157.580000 System: SysOnTime: 1 Minutes
+1593092157.600000 System: Battery Capacity: 83.00 %
+1593092157.620000 System: Current: -0.13 Amps
+1593092157.640000 System: Battery Cycle Count: 3
+1593092157.670000 System: Battery Avg Time To Empty: 1028 Minutes
+1593092157.690000 System: Battery Runtime To Empty: 1101 Minutes
+1593092157.710000 System: Battery Voltage: 12.24 Volts
+1593092157.730000 System: Battery Temperature: 75 F
+1593092157.750000 System: Battery Mode: 1
+1593092157.770000 System: Battery Status: 192
+1593092157.790000 System: 
+
+SN: M0001138   Motor Ver: 5.1.10 - SYS_POWERDOWN
+1593092164.010000 System: 
+
+SN: M0001138   Motor Ver: 5.1.10 - SYS_POWERUP
+1593092164.040000 System: Bluetooth MAC Address: 00:13:43:5B:93:85
+1593092164.070000 System: Unique System Name: 12345678
+1593092164.090000 System: Elbow SW Version: V5.1.10
+1593092164.120000 System: Battery Serial Number: 12338
+1593092164.140000 System: Battery Manufacturing Date: 18773 (Oct 21, 2016)
+1593092164.160000  Elbow: Mode: 0 (Standby)
+1593092164.180000  Elbow: Standby Mode Parameters (G,B,T): 4/4, 4/4, 0/0
+1593092164.200000  Elbow: Biceps Mode Parameters  (G,B,T): 4/4, 4/4, 11/11
+1593092164.220000  Elbow: Triceps Mode Parameters (G,B,T): 10/10, 4/4, 11/11
+1593092164.250000  Elbow: Dual Mode Parameters (G,B,T): 10/10, 4/4, 11/10
+1593092164.260000   Hand: Mode: 0 (Standby)
+1593092164.290000   Hand: Standby Mode Parameters (G,B,T): 4/4, 5/5, 0/0
+1593092164.310000   Hand: Biceps Mode Parameters  (G,B,T): 6/5, 6/3, 7/9
+1593092164.330000   Hand: Triceps Mode Parameters (G,B,T): 10/9, 6/3, 7/9
+1593092164.350000   Hand: Dual Mode Parameters (G,B,T): 5/8, 6/3, 11/6
+1593092171.050000 System: Bluetooth Connection: Connected
+1593092174.440000  Elbow: Flx Cycle Count: 0
+1593092174.460000  Elbow: Ext Cycle Count: 0
+1593092174.490000  Elbow: Flx Motor Time: 0 mSecs
+1593092174.510000  Elbow: Ext Motor Time: 0 mSecs
+1593092174.530000   Hand: Flx Cycle Count: 1
+1593092174.550000   Hand: Ext Cycle Count: 1
+1593092174.570000   Hand: Flx Motor Time: 0 mSecs
+1593092174.590000   Hand: Ext Motor Time: 0 mSecs
+1593092174.610000 System: SysOnTime: 0 Minutes
